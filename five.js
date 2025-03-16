@@ -53,6 +53,7 @@
   five.estonian = function() { return 'viis'; };
   five.finnish = function() { return 'viisi'; };
   five.french = function() { return 'cinq'; };
+  five.georgian = function() { return 'ხუთი'; }
   five.german = function() { return 'fünf'; };
   five.greek = function() { return 'πέντε'; };
   five.hebrew = function() { return 'חמש'; };
